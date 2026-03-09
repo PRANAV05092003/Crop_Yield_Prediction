@@ -1,0 +1,19 @@
+[
+  "Year",
+  "Precipitation",
+  "maxtemp",
+  "mintemp",
+  "avgtemp",
+  "specifichumidity",
+  "relativehumidity",
+  "surfacepressure",
+  "dewpoints",
+  "minwindspeed",
+  "maxwindspeed",
+  "cloudcoverage",
+  "Nitrogen",
+  "Phosphorus",
+  "Pottasium",
+  "pH",
+  "NDVI"
+]
